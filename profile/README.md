@@ -17,12 +17,6 @@
 </div>
 
 
----
-
-![Banner](../banner.jpeg)
-
----
-
 ## 🧠 What is Forg?
 
 > **Most platforms treat products like events. Building is a process.**
